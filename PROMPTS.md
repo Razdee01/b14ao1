@@ -1,1 +1,1 @@
-hey this is my html and this is my css now add a relevent section before the footer and after secure 
+hey this is my html and this is my css now add a relevent section before the footer and after the secure spot section
